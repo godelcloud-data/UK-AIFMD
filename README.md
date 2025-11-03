@@ -1,10 +1,10 @@
 ![enter image description here](https://7964e189fb9a08f4a51c194383012c8d.cdn.bubble.io/f1761771685531x347390430785958500/godelcloud.banner.png	)
-# UK Alternative Investment Fund Managers (AIFMs)
+# List of UK AIFMs: FCA Authorised & Registered Firms | 2025
 GodelCloud’s [Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) delivers the structured view that enables value identification and risk mitigation at both the entity and sector level.
 <br>
 <br>
 ## 1. Dataset Features
-- **100% Firm Coverage:** Comprehensive list of all 1,284 FCA-Authorised and Registered UK AIFMs.
+- **100% Firm Coverage:** Comprehensive list of all 1,284 FCA Authorised and Registered UK AIFMs.
 
 - **AIFM Classification:** Segmentation of firms by regulatory class as Full-Scope, Small Authorised and Small Registered.
 
@@ -20,10 +20,10 @@ GodelCloud’s [Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) del
 ## 2. **Regional Distribution**
 **Figure:** Count of AIFMs by UK Region
 <p align="left">
-  <img src="https://7964e189fb9a08f4a51c194383012c8d.cdn.bubble.io/f1761772313354x105897556092441780/UK%20AIFMs.png" alt="Regional distribution map of UK Alternative Investment Fund Managers" width="700">
+  <img src="https://7964e189fb9a08f4a51c194383012c8d.cdn.bubble.io/f1761772313354x105897556092441780/UK%20AIFMs.png" alt="Regional distribution map of FCA Authorised & Registered UK Alternative Investment Fund Managers" width="700">
 </p>
 
-**Source:** [GodelCloud's Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset)
+**Source:** [GodelCloud's Dataset of UK AIFMs](https://godelcloud.com/uk-aifm-dataset) | Q4 2025
 <br>
 <br>
 
